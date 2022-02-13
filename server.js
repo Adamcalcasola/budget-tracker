@@ -18,7 +18,7 @@ app.use(express.static("public"));
 
 mongoose.connect(MONGODB_URI, {
   useNewUrlParser: true,
-  useFindAndModify: true
+  useUnifiedTopology: true
 });
 
 // routes
