@@ -17,7 +17,7 @@
 ## Usage:
  
 
-![social-network-api-screenshot](budget-tracker-screenshot.png?raw=true "screenshot")
+![budget-tracker-screenshot](budget-tracker-screenshot.png?raw=true "screenshot")
 
 ## Contributing:
 Please go to the Github repository provided to contribute to this project.
